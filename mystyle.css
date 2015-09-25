@@ -1,0 +1,31 @@
+body {
+	background-color: #FFE5C5;
+}
+
+h1 {
+	color: #64727E;
+	text-align: center;
+	font-family: "Arial", Arial, sans-serif;
+	font-size: 40px;
+}
+
+p {
+	margin-left: 250px;
+	margin-right: 250px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	color: #ADA097;
+	text-align: center;
+	font-family: "Arial", Arial, sans-serif;
+}
+
+h3 {
+	color: #64727E;
+	text-align: center;
+	font-family: "Arial", Arial, sans-serif;
+}
+
+#list1, #list2 {
+	text-align: center;
+	font-family: "Arial", Arial, sans-serif;
+}
